@@ -5,7 +5,7 @@ I'm a Front-end developer 🧑🏻‍💻
 ## Current Stack
 - ⚡️ Main Language: "Javascript"
 - 📡 Backend: "Nodejs"
-- 🎉 Frontend: "Reactjs", "HTML5", "CSS3", "Javascript"
+- 🎉 Frontend: "Next.js", "Reactjs", "TypeScript", "Javascript", "TailwindCSS", "BootStrap", "HTML5", "CSS3"
 - 🎨 Layout Design: "Figma"
 - 📦️ Version code control: "Git & Github"
 - 🔧 Tools: "VsCode"
