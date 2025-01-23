@@ -15,7 +15,7 @@ I'm a Front-end developer 🧑🏻‍💻
 
 ## Stats
 <div style="display: flex">
-  <picture>
+<!--   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Igor-de-Lima52&show_icons=true&theme=dark&title_color=1E90FF&icon_color=1E90FF&border_color=696969"
      media="(prefers-color-scheme: dark)"
@@ -25,6 +25,6 @@ I'm a Front-end developer 🧑🏻‍💻
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Igor-deLima52&show_icons=true" />
-</picture>
+</picture> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-de-Lima52&layout=compact&theme=dark&title_color=1E90FF&icon_color=1E90FF&border_color=696969">
 </div>
